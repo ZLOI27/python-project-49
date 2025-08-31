@@ -1,10 +1,12 @@
 import prompt
 
+from brain_games import cli
+
 
 def main():
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
-    print(f"Hello, {name}!")
+    print(cli.wecome_user(name))
 
 
 if __name__ == '__main__':
