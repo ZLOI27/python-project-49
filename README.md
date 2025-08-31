@@ -1,5 +1,4 @@
 # Bages:
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=ZLOI27_python-project-49)](https://sonarcloud.io/summary/new_code?id=ZLOI27_python-project-49)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ZLOI27_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ZLOI27_python-project-49)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ZLOI27_python-project-49&metric=bugs)](https://sonarcloud.io/summary/new_code?id=ZLOI27_python-project-49)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ZLOI27_python-project-49&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=ZLOI27_python-project-49)
@@ -13,3 +12,6 @@
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/ZLOI27/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ZLOI27/python-project-49/actions)
+
+### ASCIINEMA:
+[![asciicast](https://asciinema.org/a/iih856pa3nggepslRY2pfEa4M.svg)](https://asciinema.org/a/iih856pa3nggepslRY2pfEa4M)
