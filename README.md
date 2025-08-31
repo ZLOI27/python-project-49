@@ -17,7 +17,7 @@
 [![asciicast](https://asciinema.org/a/iih856pa3nggepslRY2pfEa4M.svg)](https://asciinema.org/a/iih856pa3nggepslRY2pfEa4M)
 
 ### ASCIINEMA for brain_calc:
-Error: HTTP status server error (500 Internal Server Error) for url (https://asciinema.org/api/asciicasts)
+[![asciicast](https://asciinema.org/a/NEhW4KhpgS0kuCiIFxQoCN1ec.svg)](https://asciinema.org/a/NEhW4KhpgS0kuCiIFxQoCN1ec)
 
 ### ASCIINEMA for brain_gcd:
 [![asciicast](https://asciinema.org/a/2TsyVvgu9WlKUORhJMYPImN3I.svg)](https://asciinema.org/a/2TsyVvgu9WlKUORhJMYPImN3I)
