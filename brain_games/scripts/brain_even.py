@@ -1,9 +1,10 @@
-import prompt
 import random
+
+import prompt
 
 
 def main():
-    print('Welcome to the Brain Games!')    
+    print('Welcome to the Brain Games!') 
     name = prompt.string("May I have your name? ")
     print(f"Hello, {name}! "
           f"Answer \'yes\' if the number is even, otherwise answer \'no\'.")
@@ -15,7 +16,8 @@ def main():
         if answer == right_answer:
             print('Correct!')
         else:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was '{right_answer}'.\n"
+            print(f"'{answer}' is wrong answer "
+                  f";(. Correct answer was '{right_answer}'.\n"
                   f"Let\'s try again, {name}!")
             break
     else:
