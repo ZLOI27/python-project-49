@@ -20,4 +20,4 @@
 Error: HTTP status server error (500 Internal Server Error) for url (https://asciinema.org/api/asciicasts)
 
 ### ASCIINEMA for brain_gcd:
-Error: HTTP status server error (500 Internal Server Error) for url (https://asciinema.org/api/asciicasts)
+[![asciicast](https://asciinema.org/a/2TsyVvgu9WlKUORhJMYPImN3I.svg)](https://asciinema.org/a/2TsyVvgu9WlKUORhJMYPImN3I)
