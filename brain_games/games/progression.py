@@ -16,7 +16,7 @@ def get_question_msg() -> str:
     position = random.randint(0, length - 1)
     start_num = random.randint(0, 10)
     step = random.randint(1, 10)
-    stop_num = start_num + step * (length - 1)
+    stop_num = start_num + step * length
     progression_lst = [str(num) for num in range(start_num, stop_num, step)]
     global hidden_number
     hidden_number = progression_lst[position]
