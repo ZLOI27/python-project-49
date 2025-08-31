@@ -13,5 +13,8 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/ZLOI27/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ZLOI27/python-project-49/actions)
 
-### ASCIINEMA:
+### ASCIINEMA for brain_even:
 [![asciicast](https://asciinema.org/a/iih856pa3nggepslRY2pfEa4M.svg)](https://asciinema.org/a/iih856pa3nggepslRY2pfEa4M)
+
+### ASCIINEMA for brain_calc:
+Error: HTTP status server error (500 Internal Server Error) for url (https://asciinema.org/api/asciicasts)
