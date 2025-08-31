@@ -18,3 +18,6 @@
 
 ### ASCIINEMA for brain_calc:
 Error: HTTP status server error (500 Internal Server Error) for url (https://asciinema.org/api/asciicasts)
+
+### ASCIINEMA for brain_gcd:
+Error: HTTP status server error (500 Internal Server Error) for url (https://asciinema.org/api/asciicasts)
