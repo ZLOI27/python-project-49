@@ -14,6 +14,9 @@ This package contain 5 games!
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ZLOI27_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ZLOI27_python-project-49)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ZLOI27_python-project-49&metric=coverage)](https://sonarcloud.io/summary/new_code?id=ZLOI27_python-project-49)
 
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/ZLOI27/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ZLOI27/python-project-49/actions)
+
 ### Setup
 
 ```bash
