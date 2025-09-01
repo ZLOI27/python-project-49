@@ -21,4 +21,4 @@ def is_even(number: int) -> bool:
     
 
 def get_msg_game_rules() -> str:
-    return "Answer 'yes' if the number is even, otherwise answer 'no'."
+    return "Answer \"yes\" if the number is even, otherwise answer \"no\"."
