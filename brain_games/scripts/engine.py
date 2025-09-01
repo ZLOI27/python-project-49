@@ -1,4 +1,4 @@
-from brain_games.utils import greet_and_ask_name
+from brain_games.scripts.utils import greet_and_ask_name
 
 
 def engine_run(game) -> None:

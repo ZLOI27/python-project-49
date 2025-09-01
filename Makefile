@@ -26,5 +26,5 @@ lint:
 	uv run ruff check brain_games/games/gcd.py
 	uv run ruff check brain_games/games/progression.py
 	uv run ruff check brain_games/games/prime.py
-	uv run ruff check brain_games/utils.py
-	uv run ruff check brain_games/engine.py
+	uv run ruff check brain_games/scripts/utils.py
+	uv run ruff check brain_games/scripts/engine.py

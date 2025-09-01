@@ -1,6 +1,6 @@
 import random
 
-from brain_games.utils import ask_answer
+from brain_games.scripts.utils import ask_answer
 
 hidden_number: str
 

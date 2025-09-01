@@ -1,5 +1,5 @@
-from brain_games import engine
 from brain_games.games import prime
+from brain_games.scripts import engine
 
 
 def main() -> None:

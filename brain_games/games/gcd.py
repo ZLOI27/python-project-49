@@ -1,6 +1,6 @@
 import random
 
-from brain_games.utils import ask_answer
+from brain_games.scripts.utils import ask_answer
 
 
 def get_answer_and_right_answer(expression: str) -> tuple:
