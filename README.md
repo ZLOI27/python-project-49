@@ -1,4 +1,7 @@
-# Bages:
+# Brain-games python-package
+This package contain 5 games!
+
+### Bages:
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ZLOI27_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ZLOI27_python-project-49)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ZLOI27_python-project-49&metric=bugs)](https://sonarcloud.io/summary/new_code?id=ZLOI27_python-project-49)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ZLOI27_python-project-49&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=ZLOI27_python-project-49)
