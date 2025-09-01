@@ -20,9 +20,11 @@ lint:
 	uv run ruff check brain_games/scripts/brain_calc.py
 	uv run ruff check brain_games/scripts/brain_gcd.py
 	uv run ruff check brain_games/scripts/brain_progression.py
+	uv run ruff check brain_games/scripts/brain_prime.py
 	uv run ruff check brain_games/games/even.py
 	uv run ruff check brain_games/games/calc.py
 	uv run ruff check brain_games/games/gcd.py
 	uv run ruff check brain_games/games/progression.py
+	uv run ruff check brain_games/games/prime.py
 	uv run ruff check brain_games/utils.py
 	uv run ruff check brain_games/engine.py
