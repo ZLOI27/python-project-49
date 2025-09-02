@@ -1,14 +1,6 @@
 import random
 
-from brain_games.scripts.utils import ask_answer
-
 hidden_number: str
-
-
-def get_answer_and_right_answer(expression: str) -> tuple:
-    answer = ask_answer()
-    right_answer = get_right_answer(expression)
-    return (answer, right_answer)
 
 
 def get_question_msg() -> str:

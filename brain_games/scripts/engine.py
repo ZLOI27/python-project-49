@@ -1,4 +1,7 @@
-from brain_games.scripts.utils import greet_and_ask_name
+from brain_games.scripts.utils import (
+    get_answer_and_right_answer,
+    greet_and_ask_name,
+)
 
 
 def engine_run(game) -> None:
@@ -7,7 +10,10 @@ def engine_run(game) -> None:
     for i in range(3):
         question_msg = game.get_question_msg()
         print(f"Question: {question_msg}")
-        answer, right_answer = game.get_answer_and_right_answer(question_msg)
+        answer, right_answer = get_answer_and_right_answer(
+            game.get_right_answer, 
+            question_msg
+        )
         if answer == right_answer:
             print('Correct!')
         else:
